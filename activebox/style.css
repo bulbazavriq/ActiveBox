@@ -202,3 +202,48 @@ p{
     color: #fff;
     text-transform: uppercase;
 }
+
+.works__text{
+    color: aliceblue;
+}
+
+.team{
+    margin: 100px 0;
+
+}
+
+.team__inner{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.team__item{
+    width: 25%;
+}
+
+.team__photo {
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.tm{
+    margin-bottom: 20px ;
+}
+
+.tfirst-child{
+    margin-bottom: 86px
+}
+.team__name{
+    font-size: 22px;
+    color: black;
+    margin-bottom: 8px;
+}
+
+.team__prof{
+    font-size: 13px;
+    color: red;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+}
