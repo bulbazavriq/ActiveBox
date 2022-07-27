@@ -23,6 +23,7 @@ p{
     width: 100%;
     max-width: 1170px;
     margin: 0 auto;
+    padding: 0;
 }
 
 .header {
@@ -215,6 +216,7 @@ p{
 .team__inner{
     display: flex;
     flex-wrap: wrap;
+    margin: 0 -15px;
 
 }
 
@@ -235,6 +237,7 @@ p{
 .tfirst-child{
     margin-bottom: 86px
 }
+
 .team__name{
     font-size: 22px;
     color: black;
@@ -246,4 +249,12 @@ p{
     color: red;
     text-transform: uppercase;
     margin-bottom: 15px;
+}
+
+.team__social{
+    margin-top: 15px;
+}
+
+.review{
+    width: 50%;
 }
